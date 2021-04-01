@@ -1,0 +1,17 @@
+{
+    "code":"200","updateTime":"2020-10-17T01:11+08:00","fxLink":"http://hfx.link/1tk51",
+
+    "now":{
+        "obsTime":"2020-10-17T00:30+08:00",
+        
+        "temp":"15","feelsLike":"15","icon":"154","text":"阴",
+
+        "wind360":"278","windDir":"西风","windScale":"1","windSpeed":"4",
+
+        "humidity":"88","precip":"2.5","pressure":"993","vis":"10","cloud":"96","dew":"13"
+    },
+
+    "refer":{
+        "sources":["Weather China"],"license":["no commercial use"]
+    }
+}

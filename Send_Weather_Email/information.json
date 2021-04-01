@@ -1,0 +1,18 @@
+{
+    "sender" : {
+        "from_address" : "发送者的邮箱",
+
+        "password" : "在这里写你的授权码",
+
+        "name" : "发送者的名字"
+    } ,
+    
+
+    "receiver" : {
+        "to_address" : "接收者的邮箱"
+    } ,
+
+    "time" : {
+        "hour" : 12, "min" : 15
+    }
+}
